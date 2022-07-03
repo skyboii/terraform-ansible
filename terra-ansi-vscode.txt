@@ -1,0 +1,195 @@
+Complete!
+akashkumarojha9@ip-172-31-31-141:~/ansi/terraform-ansible/terraform-ansible$ history
+    1  clear
+    2  vim index.html
+    3  mkdir gitops
+    4  sudo apt install git
+    5  git --version
+    6  git clone https://github.com/skyboii/git-ops-1.git
+    7  cd git-ops-1
+    8  ll -a
+    9  vim index.html
+   10  cd git-ops-1
+   11  rm -rf git-ops-1/
+   12  ssh -keygen
+   13  git clone git@github.com:skyboii/git-ops-1.git
+   14  ssh -keygen
+   15  ssh -key gen
+   16  mkdir simplilearn
+   17  cd simplilearn
+   18  ssh -keygen
+   19  ssh -k
+   20  ssh -keygen
+   21  ssh-keygen
+   22  cd ~/.ssh/
+   23  ll
+   24  cat id_rsa.pub
+   25  cd simplilearn
+   26  cd git-ops-1
+   27  :w
+   28  :wq:
+   29  vim .git/config
+   30  git clone git@github.com:skyboii/git-ops-1.git
+   31  ll
+   32  rm -rf git-ops-1
+   33  git clone git@github.com:skyboii/git-ops-1.git
+   34  vim index.html
+   35  cd git-ops-1
+   36  ll
+   37  vim index.html
+   38  cd git-ops-1
+   39  ll
+   40  vim index.html
+   41  cd git-ops-1
+   42  ll
+   43  vim index.html
+   44  git status
+   45  git add .
+   46  git add index.html
+   47  git status
+   48  git commit -am"adding new information"
+   49  git push
+   50  git logs
+   51  git log
+   52  git log --online
+   53  history
+   54  rm -rf git-ops-1/
+   55  ll
+   56  rm -r git-ops-1
+   57  rm -r git-ops-1/
+   58  ll
+   59  mkdir simp
+   60  cd simp
+   61  ll
+   62  git clone git@github.com:skyboii/git-ops-1.git
+   63  ll
+   64  cd git-ops-1
+   65  ll
+   66  vim index.html
+   67  git status
+   68  vim index.html
+   69  git status
+   70  git add .
+   71  git add index.html
+   72  git status
+   73  git commit -am"new info added"
+   74  git config --global user.email "akashkumarojha98@gmail.com"
+   75  git config --global user.name "Akash"
+   76  git commit -am"new info added"
+   77  git push
+   78  git log
+   79  git log --oneline
+   80  git branch
+   81  git switch -c dev
+   82  git branch
+   83  git switch -c uat
+   84  git branch
+   85  git switch main
+   86  git checkout dev
+   87  history
+   88  git branch
+   89  cd git-ops-1
+   90  git branch
+   91  git switch -c dev
+   92  git pull
+   93  ll
+   94  git merge dev
+   95  git branch
+   96  git switch main
+   97  git pull
+   98  git commit
+   99  git branch
+  100  cd simp
+  101  cd git-ops-1
+  102  ll
+  103  git branch
+  104  git branch -d dev 
+  105  sudo service jenkins status
+  106  cd /var/lib/jenkins/workspace/job_one
+  107  ll
+  108  mvn --version
+  109  cd git-ops
+  110  history
+  111  cd git-ops-1
+  112  mkdir simp-jenkins
+  113  cd simp-jenkins
+  114  cd git ops
+  115  cd git-ops-1
+  116  sudo apt install mlocate
+  117  locate python
+  118  locate selenium
+  119  sudo apt-get update
+  120  sudo pip install selenium
+  121  mlocate selenium
+  122  pip3 install selenium
+  123  pip install --upgrade pip
+  124  mlocate selenium
+  125  pip install selenium
+  126  cd ../Downloads/
+  127  cd ../Downloads
+  128  cd ../Downloads/
+  129  cd /home/akashkumarojha9/Downloads/
+  130  ll
+  131  Archive: chromedriver_linux.zip
+  132  unzip chromedriver_linux.zip
+  133  unzip chromedriver_linux64.zip
+  134  ll
+  135  ansible -m ping localhost
+  136  ansible -m ping localhost -vvv
+  137  apt update
+  138  sudo apt install software-properties-common
+  139  apt-transport-https wget
+  140  sudo apt install software-properties-common apt-transport-https wget -y
+  141  sudo wget -q https://packages.microsoft.com/keys/microsoft.asc -O- | sudo apt-key add -y
+  142  sudo wget -q https://packages.microsoft.com/keys/microsoft.asc -O- | sudo apt-key add -
+  143  sudo add-apt-repository "deb [arch=amd64] https://packages.microsoft.com/repos/vscode stable main"
+  144  sudo apt install code
+  145  code
+  146  git pull git@github.com:skyboii/terraform-ansible.git
+  147  git pull https://github.com/skyboii/terraform-ansible.git
+  148  cd
+  149  cd akashkumarojha9
+  150  cd ~/akashkumarojha9/
+  151  mkdir ansi
+  152  cd ansi
+  153  mkdir terraform-ansible
+  154  cd terraform-ansible
+  155  git pull https://github.com/skyboii/terraform-ansible.git
+  156  git init
+  157  git pull https://github.com/skyboii/terraform-ansible.git
+  158  ll
+  159  aws configure
+  160  cd ~/Downloads/
+  161  ll
+  162  unzip testng-6.8.7.jar.zip
+  163  cd ~/ansi/terraform-ansible
+  164  git branch
+  165  ll
+  166  git branch
+  167  terraform --version
+  168  terraform init
+  169  terrafrom plan
+  170  terraform plan
+  171  gti switch s3
+  172  git switch s3
+  173  git branch
+  174  cat main.ts
+  175  vim main.ts
+  176  terrafrom init
+  177  terraform init
+  178  terraform plan
+  179  1
+  180  terraform apply
+  181  ansible all -i '34.205.20.125,3.83.14.109' -m ping -u ec2-user --private-key=./deployer
+  182  chmod 400 deployer
+  183  ansible all -i '34.205.20.125,3.83.14.109' -m ping -u ec2-user --private-key=./deployer
+  184  ansible all -m ping
+  185  ll
+  186  git add inventory
+  187  git commit -m "changed ip"
+  188  ansible all -m ping
+  189  ansible node-1 -m ping
+  190  ansible node-1 -m shell -a ls
+  191  ansible node-1 -m shell -a "yum install htop -y"
+  192  ansible node-1 -m shell -a "yum remove htop -y"
+  193  history
